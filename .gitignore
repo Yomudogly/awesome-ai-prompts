@@ -1,0 +1,81 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows system files
+*.tmp
+*.temp
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux system files
+*~
+.directory
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+.emacs.d/
+.sublime-*
+
+# Temporary files
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Log files
+*.log
+logs/
+
+# Environment files (if any sensitive configs are added later)
+.env
+.env.local
+.env.production
+.env.staging
+
+# Node.js (if any tooling is added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if any tooling is added later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Archive files (unless intentionally added)
+*.zip
+*.tar.gz
+*.rar
+
+# Personal notes or drafts (uncomment if needed)
+# drafts/
+# private/
+# personal-notes.md
+
+# AI model outputs or generated content (uncomment if needed)
+# generated/
+# outputs/

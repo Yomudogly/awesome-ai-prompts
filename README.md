@@ -4,20 +4,20 @@ A curated collection of high-quality AI prompts, custom instructions, and GPT co
 
 ## 📁 Repository Structure
 
-### 🔮 Gems | GPTs
+### 🤖 Assistants
 
-Custom GPT configurations and specialized AI agents:
+Custom GPTs, Gems and specialized AI agents:
 
-- **[Algo JS.md](gems%20%7C%20gpts/Algo%20JS.md)** - JavaScript algorithm assistant
-- **[Copilot Optimizer.md](gems%20%7C%20gpts/Copilot%20Optimizer.md)** - GitHub Copilot enhancement prompts
-- **[Hookah Expert.md](gems%20%7C%20gpts/Hookah%20Expert.md)** - Specialized hookah knowledge expert
-- **[Image Craft Maestro.md](gems%20%7C%20gpts/Image%20Craft%20Maestro.md)** - Image generation and editing assistant
-- **[Learning Strategist.md](gems%20%7C%20gpts/Learning%20Strategist.md)** - Personalized learning and education helper
-- **[Personal Branding Architect.md](gems%20%7C%20gpts/Personal%20Branding%20Architect.md)** - Personal brand development expert
-- **[Project Planning Assistant.md](gems%20%7C%20gpts/Project%20Planning%20Assistant.md)** - Project management and planning aide
-- **[Prompt Guide.md](gems%20%7C%20gpts/Prompt%20Guide.md)** - Guide for creating effective prompts
-- **[Ultimate Prompt Architect.xml](gems%20%7C%20gpts/Ultimate%20Prompt%20Architect.xml)** - Advanced prompt engineering framework
-- **[Veo Prompt Generator.xml](gems%20%7C%20gpts/Veo%20Prompt%20Generator.xml)** - Video generation prompt creator
+- **[Algo JS.md](assistants/Algo%20JS.md)** - JavaScript algorithm assistant
+- **[Copilot Optimizer.md](assistants/Copilot%20Optimizer.md)** - GitHub Copilot enhancement prompts
+- **[Hookah Expert.md](assistants/Hookah%20Expert.md)** - Specialized hookah knowledge expert
+- **[Image Craft Maestro.md](assistants/Image%20Craft%20Maestro.md)** - Image generation and editing assistant
+- **[Learning Strategist.md](assistants/Learning%20Strategist.md)** - Personalized learning and education helper
+- **[Personal Branding Architect.md](assistants/Personal%20Branding%20Architect.md)** - Personal brand development expert
+- **[Project Planning Assistant.md](assistants/Project%20Planning%20Assistant.md)** - Project management and planning aide
+- **[Prompt Guide.md](assistants/Prompt%20Guide.md)** - Guide for creating effective prompts
+- **[Ultimate Prompt Architect.xml](assistants/Ultimate%20Prompt%20Architect.xml)** - Advanced prompt engineering framework
+- **[Veo Prompt Generator.xml](assistants/Veo%20Prompt%20Generator.xml)** - Video generation prompt creator
 
 ### 📋 Instructions
 
@@ -37,6 +37,13 @@ Ready-to-use prompts for specific tasks and workflows:
 - **[Deep Research.md](prompts/Deep%20Research.md)** - In-depth research methodology prompts
 - **[Text Fidelity Compression.md](prompts/Text%20Fidelity%20Compression.md)** - Advanced text compression techniques
 
+### 📝 Templates
+
+Base templates and frameworks for creating consistent AI interactions:
+
+- **[Personal Information.md](templates/Personal%20Information.md)** - Personal context template for AI customization
+- **[Tree Of Thoughts.md](templates/Tree%20Of%20Thoughts.md)** - Structured thinking and brainstorming template
+
 ## 🚀 Getting Started
 
 1. **Browse the categories** above to find prompts that match your needs
@@ -46,9 +53,9 @@ Ready-to-use prompts for specific tasks and workflows:
 
 ## 📖 How to Use
 
-### For GPT Models
+### For AI Assistants
 
-1. Navigate to the `gems | gpts` folder
+1. Navigate to the `assistants` folder
 2. Choose the appropriate GPT configuration
 3. Copy the content and use it as a system prompt or custom GPT
 
@@ -63,6 +70,13 @@ Ready-to-use prompts for specific tasks and workflows:
 1. Check the `prompts` folder
 2. Find prompts related to your task
 3. Copy and adapt the prompts as needed
+
+### For Templates
+
+1. Visit the `templates` folder
+2. Select the template that fits your needs
+3. Fill in your personal information and preferences
+4. Use the completed template as context for AI interactions
 
 ## 🛠️ File Formats
 
@@ -113,4 +127,4 @@ Thanks to the AI community for sharing knowledge and best practices that make th
 
 **Happy Prompting!** 🎯
 
-Last updated: August 2025
+Last updated: September 2025

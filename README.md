@@ -36,6 +36,7 @@ Ready-to-use prompts for specific tasks and workflows:
 - **[Chat Archivist.md](prompts/Chat%20Archivist.md)** - Conversation management and archival
 - **[Deep Research.md](prompts/Deep%20Research.md)** - In-depth research methodology prompts
 - **[Text Fidelity Compression.md](prompts/Text%20Fidelity%20Compression.md)** - Advanced text compression techniques
+- **[100-Idea Software Concept Generator.md](prompts/100-Idea%20Software%20Concept%20Generator.md)** - Generate 100 unique software product ideas with potential for high revenue.
 
 ### 📝 Templates
 

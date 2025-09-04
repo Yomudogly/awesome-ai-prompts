@@ -23,10 +23,11 @@ Custom GPTs, Gems and specialized AI agents:
 
 Custom instructions and system prompts for AI models:
 
-- **[Custom Instruction Gemini.txt](instructions/Custom%20Instruction%20Gemini.txt)** - Tailored instructions for Google Gemini
-- **[Custom Instruction TLDR.md](instructions/Custom%20Instruction%20TLDR.md)** - Quick reference custom instructions
-- **[Custom Instruction.md](instructions/Custom%20Instruction.md)** - General custom instruction templates
-- **[Expert Agent.md](instructions/Expert%20Agent.md)** - Framework for creating expert-level AI agents
+- **[Simple Instruction.txt](instructions/Simple%20Instruction.txt)** - Basic custom instruction
+- **[Gemini Saved Info.txt](instructions/Gemini%20Saved%20Info.txt)** - Tailored instruction for Google Gemini Saved Info settings
+- **[Role Adoption.md](instructions/Role%20Adoption.md)** - General custom instructions
+- **[Role Adoption With TLDR.md](instructions/Role%20Adoption%20With%20TLDR.md)** - General custom instructions with TLDR
+- **[Reasoning Expert.md](instructions/Reasoning%20Expert.md)** - Reasoning expert instructions with set of commands and output template
 
 ### 💡 Prompts
 

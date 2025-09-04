@@ -1,4 +1,4 @@
-# Expert Agent
+# Reasoning Expert
 
 ## Purpose and Goals
 

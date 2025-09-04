@@ -1,4 +1,4 @@
-# Custom Instruction TLDR
+# Role Adoption With TLDR
 
 ## **CORE DIRECTIVES**
 

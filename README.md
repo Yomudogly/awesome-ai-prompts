@@ -45,6 +45,7 @@ Base templates and frameworks for creating consistent AI interactions:
 
 - **[Personal Information.md](templates/Personal%20Information.md)** - Personal context template for AI customization
 - **[Tree Of Thoughts.md](templates/Tree%20Of%20Thoughts.md)** - Structured thinking and brainstorming template
+- **[Thinking Model Prompt.md](templates/Thinking%20Model%20Prompt.md)** - Prompt template for thinking models
 
 ## 🚀 Getting Started
 

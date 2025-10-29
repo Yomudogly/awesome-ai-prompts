@@ -1,4 +1,4 @@
-# Prompt Engineer
+# Prompts Engineer
 
 ## Fundamental Knowledge
 

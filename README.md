@@ -15,38 +15,38 @@ Custom GPTs, Gems and specialized AI agents:
 - **[Learning Strategist.md](assistants/Learning%20Strategist.md)** - Personalized learning and education helper
 - **[Personal Branding Architect.md](assistants/Personal%20Branding%20Architect.md)** - Personal brand development expert
 - **[Project Planning Assistant.md](assistants/Project%20Planning%20Assistant.md)** - Project management and planning aide
+- **[Prompts Engineer.md](assistants/Prompts%20Engineer.md)** - Expert prompt engineering assistant
 - **[Prompt Guide.md](assistants/Prompt%20Guide.md)** - Guide for creating effective prompts
 - **[Ultimate Prompt Architect.xml](assistants/Ultimate%20Prompt%20Architect.xml)** - Advanced prompt engineering framework
 - **[Veo Prompt Generator.xml](assistants/Veo%20Prompt%20Generator.xml)** - Video generation prompt creator
-- **[Prompts Engineer.md](assistants/Prompts%20Engineer.md)** - Expert prompt engineering assistant
 
 ### 📋 Instructions
 
 Custom instructions and system prompts for AI models:
 
-- **[Simple Instruction.txt](instructions/Simple%20Instruction.txt)** - Basic custom instruction
 - **[Gemini Saved Info.txt](instructions/Gemini%20Saved%20Info.txt)** - Tailored instruction for Google Gemini Saved Info settings
+- **[Reasoning Expert.md](instructions/Reasoning%20Expert.md)** - Reasoning expert instructions with set of commands and output template
 - **[Role Adoption.md](instructions/Role%20Adoption.md)** - General custom instructions
 - **[Role Adoption With TLDR.md](instructions/Role%20Adoption%20With%20TLDR.md)** - General custom instructions with TLDR
-- **[Reasoning Expert.md](instructions/Reasoning%20Expert.md)** - Reasoning expert instructions with set of commands and output template
+- **[Simple Instruction.txt](instructions/Simple%20Instruction.txt)** - Basic custom instruction
 
 ### 💡 Prompts
 
 Ready-to-use prompts for specific tasks and workflows:
 
+- **[100-Idea Software Concept Generator.md](prompts/100-Idea%20Software%20Concept%20Generator.md)** - Generate 100 unique software product ideas with potential for high revenue.
 - **[Business Research.md](prompts/Business%20Research.md)** - Comprehensive business analysis prompts
 - **[Chat Archivist.md](prompts/Chat%20Archivist.md)** - Conversation management and archival
 - **[Deep Research.md](prompts/Deep%20Research.md)** - In-depth research methodology prompts
 - **[Text Fidelity Compression.md](prompts/Text%20Fidelity%20Compression.md)** - Advanced text compression techniques
-- **[100-Idea Software Concept Generator.md](prompts/100-Idea%20Software%20Concept%20Generator.md)** - Generate 100 unique software product ideas with potential for high revenue.
 
 ### 📝 Templates
 
 Base templates and frameworks for creating consistent AI interactions:
 
 - **[Personal Information.md](templates/Personal%20Information.md)** - Personal context template for AI customization
-- **[Tree Of Thoughts.md](templates/Tree%20Of%20Thoughts.md)** - Structured thinking and brainstorming template
 - **[Thinking Model Prompt.md](templates/Thinking%20Model%20Prompt.md)** - Prompt template for thinking models
+- **[Tree Of Thoughts.md](templates/Tree%20Of%20Thoughts.md)** - Structured thinking and brainstorming template
 
 ## 🚀 Getting Started
 

@@ -15,8 +15,8 @@ Custom GPTs, Gems and specialized AI agents:
 - **[Learning Strategist.md](assistants/Learning%20Strategist.md)** - Personalized learning and education helper
 - **[Personal Branding Architect.md](assistants/Personal%20Branding%20Architect.md)** - Personal brand development expert
 - **[Project Planning Assistant.md](assistants/Project%20Planning%20Assistant.md)** - Project management and planning aide
-- **[Prompts Engineer.md](assistants/Prompts%20Engineer.md)** - Expert prompt engineering assistant
 - **[Prompt Guide.md](assistants/Prompt%20Guide.md)** - Guide for creating effective prompts
+- **[Prompts Engineer.md](assistants/Prompts%20Engineer.md)** - Expert prompt engineering assistant
 - **[Ultimate Prompt Architect.xml](assistants/Ultimate%20Prompt%20Architect.xml)** - Advanced prompt engineering framework
 - **[Veo Prompt Generator.xml](assistants/Veo%20Prompt%20Generator.xml)** - Video generation prompt creator
 
@@ -39,6 +39,7 @@ Ready-to-use prompts for specific tasks and workflows:
 - **[Chat Archivist.md](prompts/Chat%20Archivist.md)** - Conversation management and archival
 - **[Deep Research.md](prompts/Deep%20Research.md)** - In-depth research methodology prompts
 - **[Text Fidelity Compression.md](prompts/Text%20Fidelity%20Compression.md)** - Advanced text compression techniques
+- **[Venture Capitalist.md](prompts/Venture%20Capitalist.md)** - Comprehensive venture capital analysis prompts
 
 ### 📝 Templates
 

@@ -18,6 +18,7 @@ Custom GPTs, Gems and specialized AI agents:
 - **[Prompt Guide.md](assistants/Prompt%20Guide.md)** - Guide for creating effective prompts
 - **[Ultimate Prompt Architect.xml](assistants/Ultimate%20Prompt%20Architect.xml)** - Advanced prompt engineering framework
 - **[Veo Prompt Generator.xml](assistants/Veo%20Prompt%20Generator.xml)** - Video generation prompt creator
+- **[Prompts Engineer.md](assistants/Prompts%20Engineer.md)** - Expert prompt engineering assistant
 
 ### 📋 Instructions
 

@@ -15,10 +15,12 @@ In addition to the existing scope of work, you will generate a document titled "
 ### Scope of Work
 
 1. Ask the user a series of questions to gather all necessary information about their app idea.  
-2. Use the answers to generate the following documents:  
+2. Use the answers to generate the following documents:
    * Product Requirements Document (PRD): Defines the app’s purpose, features, and target audience.  
    * Frontend Documentation: Describes the frontend architecture, UI components, and state management.  
-   * Backend Documentation: Describes the backend architecture, API design, and database schema. *Third-Party Libraries Documentation  
+   * Backend Documentation: Describes the backend architecture, API design, and database schema.
+   * Implementation Plan: Outlines detailed tasks, deliverables, and milestones.
+   * Third-Party Libraries Documentation: Lists and describes necessary third-party libraries.
 3. Ensure all documents are written in Markdown format and stored in a structured folder.
 
 ### Process
@@ -201,6 +203,14 @@ In addition to the existing scope of work, you will generate a document titled "
   * Notifications:  
     * Triggers and content for notifications (e.g., email, push).
 
+### 5. Implementation Plan
+
+* Purpose: To create a detailed, actionable plan for development, synthesizing all other planning documents.
+* Contents:
+  * Detailed Tasks: A breakdown of development tasks derived from the PRD features, User Flows, Frontend, and Backend documents.
+  * Deliverables: Specific, concrete outputs for each task (e.g., "User auth API endpoint," "Login UI component," "Database schema diagram").
+  * Milestones: Key project checkpoints and deadlines (e.g., "Phase 1: MVP Backend API complete," "Phase 2: Frontend-Backend integration done," "Phase 3: MVP launch").
+
 ---
 
 ## Final Output
@@ -222,6 +232,8 @@ project-name/
 │   ├── database-schema.md
 
 │   ├── user-flow.md
+
+│   ├── implementation-plan.md
 
 │   ├── devops.md
 
